@@ -1,0 +1,71 @@
+item,hyponym,category,zipf,band,noun_senses
+1,barn,building,3.99,mid,2
+2,banana,fruit,4,high,2
+3,hotel,building,4.95,high,1
+4,moth,insect,3.5,mid,1
+5,chisel,tool,2.96,low (rare),1
+6,train,vehicle,4.96,high,6
+7,church,building,5.16,high,4
+8,cabbage,vegetable,3.55,mid,3
+9,peacock,bird,3.44,mid,2
+10,school,building,5.71,high,7
+11,daisy,flower,3.78,mid,1
+12,oak,tree,4.18,high,2
+13,drill,tool,4.09,high,4
+14,tulip,flower,3.18,mid,1
+15,cedar,tree,3.76,mid,3
+16,salmon,fish,4.01,high,4
+17,hospital,building,5.07,high,2
+18,pine,tree,4.1,high,2
+19,ant,insect,3.86,mid,1
+20,radish,vegetable,2.78,low (rare),5
+21,van,vehicle,4.78,high,5
+22,lily,flower,3.95,mid,1
+23,sparrow,bird,3.48,mid,2
+24,grape,fruit,3.7,mid,3
+25,bee,insect,4.09,high,2
+26,trowel,tool,2.45,low (rare),1
+27,hammer,tool,4.16,high,8
+28,hawk,bird,3.81,mid,3
+29,carrot,vegetable,3.62,mid,4
+30,cauliflower,vegetable,3.2,mid,2
+31,car,vehicle,5.45,high,5
+32,carp,fish,3.18,mid,2
+33,maple,tree,3.86,mid,2
+34,elm,tree,3.36,mid,2
+35,tractor,vehicle,3.78,mid,2
+36,rose,flower,4.82,high,3
+37,helicopter,vehicle,4.13,high,1
+38,lemon,fruit,4.1,high,5
+39,cod,fish,3.89,mid,3
+40,onion,vegetable,3.89,mid,3
+41,truck,vehicle,4.64,high,2
+42,eagle,bird,4.13,high,4
+43,willow,tree,3.69,mid,2
+44,orchid,flower,3.3,mid,1
+45,castle,building,4.45,high,4
+46,wrench,tool,3.37,mid,3
+47,robin,bird,4.33,high,2
+48,owl,bird,3.87,mid,1
+49,mango,fruit,3.56,mid,2
+50,shark,fish,4.1,high,3
+51,bus,vehicle,4.83,high,4
+52,mantis,insect,3.11,mid,1
+53,shovel,tool,3.5,mid,4
+54,turnip,vegetable,2.84,low (rare),2
+55,sunflower,flower,3.36,mid,1
+56,trout,fish,3.78,mid,2
+57,herring,fish,3.48,mid,2
+58,beetle,insect,3.53,mid,2
+59,ladybug,insect,2.67,low (rare),1
+60,birch,tree,3.5,mid,3
+61,potato,vegetable,4.11,high,2
+62,house,building,5.71,high,12
+63,wasp,insect,3.35,mid,2
+64,pear,fruit,3.47,mid,2
+65,apple,fruit,4.76,high,2
+66,screwdriver,tool,3.13,mid,2
+67,pigeon,bird,3.61,mid,1
+68,carnation,flower,2.7,low (rare),2
+69,peach,fruit,3.77,mid,4
+70,tuna,fish,3.64,mid,4
